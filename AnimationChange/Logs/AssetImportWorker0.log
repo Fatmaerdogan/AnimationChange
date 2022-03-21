@@ -1,0 +1,1363 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1586; Version 2009; 64bit' Language: 'tr' Physical Memory: 8084 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/erdog/Documents/Kurs/AnimationChange
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62857
+Successfully changed project path to: C:/Users/erdog/Documents/Kurs/AnimationChange
+C:/Users/erdog/Documents/Kurs/AnimationChange
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/erdog/Documents/Kurs/AnimationChange/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   30.0.15.1179
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56048
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002226 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.209 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.019843 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.166 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1388 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.3 MB.
+System memory in use after: 65.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1822.
+Total: 2.088200 ms (FindLiveObjects: 0.158000 ms CreateObjectMapping: 0.076000 ms MarkObjects: 1.684700 ms  DeleteObjects: 0.168800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/AnimeGirls/BaseCharacter/Underwear1.prefab
+  artifactKey: Guid(1733e098fdf8a9447bda920a3e41b14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/Underwear1.prefab using Guid(1733e098fdf8a9447bda920a3e41b14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd192e1bda704f2f47f4631006969b385') in 0.942749 seconds
+  Import took 0.947237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/AnimeGirls/BaseCharacter
+  artifactKey: Guid(7e6aef82b559af64c9b699321cbcce90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter using Guid(7e6aef82b559af64c9b699321cbcce90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b99e108fd907d1028aebbd042f00f1c') in 0.007172 seconds
+  Import took 0.010870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001225 seconds.
+  path: Assets/AnimeGirls
+  artifactKey: Guid(d098bc848d056824cbe813eb49863fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls using Guid(d098bc848d056824cbe813eb49863fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15dbcbd41af46a9595edf0d354c5ba87') in 0.008794 seconds
+  Import took 0.014239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.483382 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/Demo files
+  artifactKey: Guid(c23e212718ab6714cacf61e3305075d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/Demo files using Guid(c23e212718ab6714cacf61e3305075d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '545d7893b425a07e4e6dceb4c7f497e8') in 0.010175 seconds
+  Import took 0.021177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.142458 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/Demo files/Anim_Idle.fbx
+  artifactKey: Guid(6d53a488351422c4b9e379c87bd0c523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/Demo files/Anim_Idle.fbx using Guid(6d53a488351422c4b9e379c87bd0c523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f11ba5d1c9568d4cbdacf808454762f') in 0.158462 seconds
+  Import took 0.164601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/Demo files/Mat_Background.mat
+  artifactKey: Guid(dc180ddaa9633db4c8e015141d784cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/Demo files/Mat_Background.mat using Guid(dc180ddaa9633db4c8e015141d784cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3b7fbf557a58eb6751536ed95afe78') in 0.053231 seconds
+  Import took 0.057056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/Demo files/Tex_Background.png
+  artifactKey: Guid(d252bd04fa9c56941a32d6aee62d7a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/Demo files/Tex_Background.png using Guid(d252bd04fa9c56941a32d6aee62d7a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b4b2b12ad308bed77975b7e235f6f1c') in 0.030863 seconds
+  Import took 0.033902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/Demo files/Mesh_Background.fbx
+  artifactKey: Guid(f5f2f138c4fe6dc45b7ada1cf76fae65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/Demo files/Mesh_Background.fbx using Guid(f5f2f138c4fe6dc45b7ada1cf76fae65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab1146f5aef65dfe5fa1c4c0e1ccc6b3') in 0.031966 seconds
+  Import took 0.035692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.180876 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/Demo files/AC.controller
+  artifactKey: Guid(f198b02e0e99f8d458e8beaa4c101d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/Demo files/AC.controller using Guid(f198b02e0e99f8d458e8beaa4c101d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba6f9e20bd4c6efc0ad645d08bb0e74') in 0.014958 seconds
+  Import took 0.019638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.126883 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter
+  artifactKey: Guid(f9f9e92d49849014386e7cdb245c993f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter using Guid(f9f9e92d49849014386e7cdb245c993f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593ce9ba530d964b8d1e3ad5c394bd68') in 0.003035 seconds
+  Import took 0.006892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001117 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter
+  artifactKey: Guid(f9f9e92d49849014386e7cdb245c993f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter using Guid(f9f9e92d49849014386e7cdb245c993f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593ce9ba530d964b8d1e3ad5c394bd68') in 0.004175 seconds
+  Import took 0.008471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.603064 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles
+  artifactKey: Guid(3ee06154672a6f945b79158f4e51f142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles using Guid(3ee06154672a6f945b79158f4e51f142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad289db38fd9146a51e7a4d5f88567c') in 0.016059 seconds
+  Import took 0.020023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069180 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/BaseCharacter.fbx
+  artifactKey: Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/BaseCharacter.fbx using Guid(d8e6717bd7507b44c9fc5a0a6749ec6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732476508fa54e0585b34cbf6abafc57') in 0.169080 seconds
+  Import took 0.180075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.202852 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat
+  artifactKey: Guid(b6ba44cc5b0eb964c9eb32950980bd32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat using Guid(b6ba44cc5b0eb964c9eb32950980bd32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3260cb976917dc84a95e1ec093a2dac') in 0.011448 seconds
+  Import took 0.022687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056143 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Body.mat
+  artifactKey: Guid(8e526af249278a0498ce8273e07fcc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Body.mat using Guid(8e526af249278a0498ce8273e07fcc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39bfa6400edba843dbd4781b39983b52') in 0.016187 seconds
+  Import took 0.020147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Hair_head.mat
+  artifactKey: Guid(903deec0895457d43a093ac8ee3e1d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Hair_head.mat using Guid(903deec0895457d43a093ac8ee3e1d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a9cf3da39a23079930e66ae2f00592') in 0.018433 seconds
+  Import took 0.022026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_4_head.mat
+  artifactKey: Guid(33f16960b5faae741a694a6018f8f68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_4_head.mat using Guid(33f16960b5faae741a694a6018f8f68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e458425493272d9c1b2d27e808105f8') in 0.019005 seconds
+  Import took 0.023720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/EyeBack.mat
+  artifactKey: Guid(b97b55ed446d8ed48acc18d42edf2de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/EyeBack.mat using Guid(b97b55ed446d8ed48acc18d42edf2de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e3121afed2b8bbe6fb18a254ec9ab4') in 0.024372 seconds
+  Import took 0.029363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_2_head.mat
+  artifactKey: Guid(a5046b7e2e9bd10459e090170ab26f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_2_head.mat using Guid(a5046b7e2e9bd10459e090170ab26f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9bbb7ecc356d9357eff3379ee8425e0') in 0.023441 seconds
+  Import took 0.028303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_EyeReflection.mat
+  artifactKey: Guid(1b5c7ed19ffba894c8cea260f2347c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_EyeReflection.mat using Guid(1b5c7ed19ffba894c8cea260f2347c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '574bed7e50b6477248c4677938c41070') in 0.021687 seconds
+  Import took 0.026510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eyelashes.mat
+  artifactKey: Guid(29c9dd3707158b2448cc0bdf81c33ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eyelashes.mat using Guid(29c9dd3707158b2448cc0bdf81c33ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6cc412b20ddef29af0b14fffc3b1607') in 0.019867 seconds
+  Import took 0.023709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_underwear_2.mat
+  artifactKey: Guid(5869b0877c9aac0429ded83b64254243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_underwear_2.mat using Guid(5869b0877c9aac0429ded83b64254243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d7defe9c80c9f3328a261556347fa8') in 0.071753 seconds
+  Import took 0.078158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_1_hair.mat
+  artifactKey: Guid(99a79f6de2825ec4bb471ef12eee8b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_1_hair.mat using Guid(99a79f6de2825ec4bb471ef12eee8b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85f489068e5c714e510ed8ccd8b36c7') in 0.021161 seconds
+  Import took 0.025035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_3_hair.mat
+  artifactKey: Guid(ac66396422b86cb4c92dad11a754d445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_3_hair.mat using Guid(ac66396422b86cb4c92dad11a754d445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d1027c6d98e5a00a33360dd5411571') in 0.019349 seconds
+  Import took 0.023684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eyebrows.mat
+  artifactKey: Guid(aa86a0f3e62852142bfc3a5d4cd7a828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eyebrows.mat using Guid(aa86a0f3e62852142bfc3a5d4cd7a828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b5ca2512566a93431db84017fe70f1') in 0.025471 seconds
+  Import took 0.030645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_underwear_1.mat
+  artifactKey: Guid(fe5f139c27784a24493f695dd3cd1be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_underwear_1.mat using Guid(fe5f139c27784a24493f695dd3cd1be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2eb56ed0f452e99dd817e3ee25b8cb') in 0.054168 seconds
+  Import took 0.058641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eye.mat
+  artifactKey: Guid(023452b84affa6f43a8feea0e1c55499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eye.mat using Guid(023452b84affa6f43a8feea0e1c55499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96c5afdd39f21768be253efd9e3b19f') in 0.016377 seconds
+  Import took 0.020121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_4_hair.mat
+  artifactKey: Guid(e1eb634c482838147a8f9f789fdfb8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_4_hair.mat using Guid(e1eb634c482838147a8f9f789fdfb8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543a9e33df26f809f97b368aafbbc178') in 0.019076 seconds
+  Import took 0.022464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_transp_Eye_color4.mat
+  artifactKey: Guid(b634fca61d42a294a8d558c7cf413446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_transp_Eye_color4.mat using Guid(b634fca61d42a294a8d558c7cf413446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1124d031230b6b63923653d2dc5f60b') in 0.023730 seconds
+  Import took 0.028688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_2_hair.mat
+  artifactKey: Guid(9e09ff6eb81e1bb46ac6c49cc77be78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_2_hair.mat using Guid(9e09ff6eb81e1bb46ac6c49cc77be78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3321a69d6ea2cd2dd4e247356b5b09d') in 0.025424 seconds
+  Import took 0.033251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000844 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Face.mat
+  artifactKey: Guid(45f47006298912f4dbec4062603b460f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Face.mat using Guid(45f47006298912f4dbec4062603b460f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc435148416739fe6f0b9c658c730eed') in 0.021107 seconds
+  Import took 0.025917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_underwear_3.mat
+  artifactKey: Guid(d2903b263d559f54794c1af4772a0e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_underwear_3.mat using Guid(d2903b263d559f54794c1af4772a0e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517e6306e250334808e8d3bdf8fd9f34') in 0.022961 seconds
+  Import took 0.027778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eyeliner.mat
+  artifactKey: Guid(b8022f4bfe3976845b403285a16c5320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eyeliner.mat using Guid(b8022f4bfe3976845b403285a16c5320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9dac2ceae41099da0d32e002afe6c7e') in 0.018785 seconds
+  Import took 0.024542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_transp_Eye_color2.mat
+  artifactKey: Guid(cdb22899674873642a8b09020709ae1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_transp_Eye_color2.mat using Guid(cdb22899674873642a8b09020709ae1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b755b9a6c99a10c5ea932ba6b308da7') in 0.016305 seconds
+  Import took 0.020490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eye_reflection.mat
+  artifactKey: Guid(02b619845fcb6e741b4be7e71e36c491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Eye_reflection.mat using Guid(02b619845fcb6e741b4be7e71e36c491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4795227b75769594bab3003f07b960a1') in 0.020983 seconds
+  Import took 0.025503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/mouth_inside.mat
+  artifactKey: Guid(6591b6a58c1933643bb87bf9fbef044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/mouth_inside.mat using Guid(6591b6a58c1933643bb87bf9fbef044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a9d6e99fee658a850f79f7949f502f') in 0.024206 seconds
+  Import took 0.030443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_transp_Eye_color3.mat
+  artifactKey: Guid(005e240c72f4ad94a986acc901553162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_transp_Eye_color3.mat using Guid(005e240c72f4ad94a986acc901553162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584b60d77470587e2c43fee69038a528') in 0.025480 seconds
+  Import took 0.031695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_3_head.mat
+  artifactKey: Guid(1d5e3b19234a64f44984ae99e6ca6545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_3_head.mat using Guid(1d5e3b19234a64f44984ae99e6ca6545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ac890563b34cd542fc2881757a8418') in 0.020508 seconds
+  Import took 0.026435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_5_head.mat
+  artifactKey: Guid(35480311dac00b44e8b4aa462037a655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_5_head.mat using Guid(35480311dac00b44e8b4aa462037a655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759d3089aadeedd4be49f6eb2320fab6') in 0.020734 seconds
+  Import took 0.027777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_5_hair.mat
+  artifactKey: Guid(3a1e33245c62cf54dad1f33cb1420dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_5_hair.mat using Guid(3a1e33245c62cf54dad1f33cb1420dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9555ab00069d44c1643318a1a6a6029b') in 0.019170 seconds
+  Import took 0.024197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_1_head.mat
+  artifactKey: Guid(d76781e69b0e937439800ef45648aed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Mat/Mat_Hair_1_head.mat using Guid(d76781e69b0e937439800ef45648aed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '860e9d09b74be573ded50032d7d629bb') in 0.024579 seconds
+  Import took 0.030025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.423253 seconds.
+  path: Assets/AnimeGirls/Casual1
+  artifactKey: Guid(627897e93ade94948bf4796ce71fa87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/Casual1 using Guid(627897e93ade94948bf4796ce71fa87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b6576c014d89730cdc7eba528879b9') in 0.013480 seconds
+  Import took 0.018248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.189157 seconds.
+  path: Assets/AnimeGirls/Casual1/Casual1.prefab
+  artifactKey: Guid(678bf8bc91771fa498236de892b83d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/Casual1/Casual1.prefab using Guid(678bf8bc91771fa498236de892b83d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d778d7448b450c69d47cac03fd8c204') in 0.068796 seconds
+  Import took 0.076693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 673.230771 seconds.
+  path: Assets/AnimeGirls/Casual1/SourceFiles
+  artifactKey: Guid(489092b80ea7da04c81daa2f9f68e58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/Casual1/SourceFiles using Guid(489092b80ea7da04c81daa2f9f68e58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f8be0f4c2788330edfc4aaa1a657d58') in 0.011681 seconds
+  Import took 0.017952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.444121 seconds.
+  path: Assets/AnimeGirls/Casual1/SourceFiles/Mesh
+  artifactKey: Guid(1fd970b491fd0654ab2efe3479d89829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/Casual1/SourceFiles/Mesh using Guid(1fd970b491fd0654ab2efe3479d89829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eaae5609107979b42e9d40b72937c85') in 0.011175 seconds
+  Import took 0.017071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047538 seconds.
+  path: Assets/AnimeGirls/Casual1/SourceFiles/Mesh/AnimeGirl.fbx
+  artifactKey: Guid(7e0043553097dc34e867f52b292bb164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/Casual1/SourceFiles/Mesh/AnimeGirl.fbx using Guid(7e0043553097dc34e867f52b292bb164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f274f134d09b3518952d822450b9e0') in 0.106848 seconds
+  Import took 0.113996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 253.618819 seconds.
+  path: Assets/AnimeGirl@Salsa Dancing.fbx
+  artifactKey: Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Salsa Dancing.fbx using Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f818a584f5f80ef1d2c5019b251e75bb') in 0.017977 seconds
+  Import took 0.021988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/AnimeGirl@Walking.fbx
+  artifactKey: Guid(7f50553f6cfba4c46a69cfd385abbf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Walking.fbx using Guid(7f50553f6cfba4c46a69cfd385abbf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae126e290b7233817a094d6f3bb2bd7') in 0.020598 seconds
+  Import took 0.025231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 481.753565 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/Demo files/AC.controller
+  artifactKey: Guid(f198b02e0e99f8d458e8beaa4c101d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/Demo files/AC.controller using Guid(f198b02e0e99f8d458e8beaa4c101d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79ba972d7dd13644a4c02d67430e0e6') in 0.009168 seconds
+  Import took 0.014184 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.035 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.4 MB.
+System memory in use after: 82.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 2.744200 ms (FindLiveObjects: 0.161400 ms CreateObjectMapping: 0.041100 ms MarkObjects: 2.453200 ms  DeleteObjects: 0.087500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.903299 seconds.
+  path: Assets/AnimeGirl@Salsa Dancing.fbx
+  artifactKey: Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Salsa Dancing.fbx using Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c6d5ddb1c2627439508652be2fd67c') in 0.030912 seconds
+  Import took 0.033425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.959640 seconds.
+  path: Assets/AnimeGirl@Walking.fbx
+  artifactKey: Guid(7f50553f6cfba4c46a69cfd385abbf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Walking.fbx using Guid(7f50553f6cfba4c46a69cfd385abbf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f7e69b2956a6527b140a9d20f020ab') in 0.010751 seconds
+  Import took 0.015269 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005589 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.012 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.4 MB.
+System memory in use after: 82.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1876.
+Total: 1.780600 ms (FindLiveObjects: 0.131000 ms CreateObjectMapping: 0.037500 ms MarkObjects: 1.544200 ms  DeleteObjects: 0.066800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.251097 seconds.
+  path: Assets/AnimeGirl@Salsa Dancing.fbx
+  artifactKey: Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Salsa Dancing.fbx using Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '930f1ff3ea39d027ff8ffd5d5fbe826d') in 0.027039 seconds
+  Import took 0.037606 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007054 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.986 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.4 MB.
+System memory in use after: 82.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1879.
+Total: 2.236300 ms (FindLiveObjects: 0.140100 ms CreateObjectMapping: 0.035700 ms MarkObjects: 1.971200 ms  DeleteObjects: 0.088500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.344497 seconds.
+  path: Assets/AnimeGirl@Salsa Dancing.fbx
+  artifactKey: Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Salsa Dancing.fbx using Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29135d29ccbc120699aee056638b1e76') in 0.029029 seconds
+  Import took 0.031891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.785010 seconds.
+  path: Assets/AnimeGirls/Casual1/SourceFiles/Material
+  artifactKey: Guid(263fc858b38dd8741bd947702ccb4b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/Casual1/SourceFiles/Material using Guid(263fc858b38dd8741bd947702ccb4b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa948ff256c1060d00ee6ec5a0b8bcb') in 0.009078 seconds
+  Import took 0.013716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.220880 seconds.
+  path: Assets/AnimeGirls/Casual1/SourceFiles/Material/Mat.mat
+  artifactKey: Guid(584185f725cc8ec4f816013ff6b5e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/Casual1/SourceFiles/Material/Mat.mat using Guid(584185f725cc8ec4f816013ff6b5e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0887bc19446608cfa837e55bfe5265a') in 0.056936 seconds
+  Import took 0.061814 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008641 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.044 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.5 MB.
+System memory in use after: 82.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1883.
+Total: 2.871400 ms (FindLiveObjects: 0.285300 ms CreateObjectMapping: 0.070500 ms MarkObjects: 2.450500 ms  DeleteObjects: 0.063600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.179788 seconds.
+  path: Assets/AnimeGirls/Casual1/SourceFiles/Mesh/AnimeGirl.fbx
+  artifactKey: Guid(7e0043553097dc34e867f52b292bb164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/Casual1/SourceFiles/Mesh/AnimeGirl.fbx using Guid(7e0043553097dc34e867f52b292bb164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b2a511b16f61f534b4ebd7d3a5f2ce') in 0.144573 seconds
+  Import took 0.148467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.429568 seconds.
+  path: Assets/AnimeGirls/Casual1/SourceFiles/Mesh/AnimeGirl.fbx
+  artifactKey: Guid(7e0043553097dc34e867f52b292bb164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/Casual1/SourceFiles/Mesh/AnimeGirl.fbx using Guid(7e0043553097dc34e867f52b292bb164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1849aa479429932794d360fe038754b4') in 0.144740 seconds
+  Import took 0.153311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.019878 seconds.
+  path: Assets/AnimeGirl@Salsa Dancing.fbx
+  artifactKey: Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Salsa Dancing.fbx using Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea426bec44e75c58ce3c4ff4cfbaae9b') in 0.012718 seconds
+  Import took 0.017054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.025804 seconds.
+  path: Assets/AnimeGirl@Salsa Dancing.fbx
+  artifactKey: Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Salsa Dancing.fbx using Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0570d0c68b7a5c049f28bef9a5001c4') in 0.008132 seconds
+  Import took 0.011669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.608649 seconds.
+  path: Assets/AnimeGirl@Walking.fbx
+  artifactKey: Guid(7f50553f6cfba4c46a69cfd385abbf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Walking.fbx using Guid(7f50553f6cfba4c46a69cfd385abbf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea147e03436d50584f959338c8b43a32') in 0.011583 seconds
+  Import took 0.015767 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004501 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.157 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.5 MB.
+System memory in use after: 82.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1887.
+Total: 2.184600 ms (FindLiveObjects: 0.151000 ms CreateObjectMapping: 0.043500 ms MarkObjects: 1.890900 ms  DeleteObjects: 0.098200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4590.922664 seconds.
+  path: Assets/AnimeGirl@Salsa Dancing.fbx
+  artifactKey: Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Salsa Dancing.fbx using Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62647a1b2620b401536f1cc807509bc') in 0.030422 seconds
+  Import took 0.040965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 270.635584 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.011558 seconds
+  Import took 0.016831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.401252 seconds.
+  path: Assets/New Avatar Mask.mask
+  artifactKey: Guid(12aec262ff2c14143aa1c4a6f57b09ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Avatar Mask.mask using Guid(12aec262ff2c14143aa1c4a6f57b09ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6e8e7b5aa4badaf158aad23d57bc08') in 0.013277 seconds
+  Import took 0.016758 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1890.
+Total: 1.891900 ms (FindLiveObjects: 0.141800 ms CreateObjectMapping: 0.035600 ms MarkObjects: 1.620400 ms  DeleteObjects: 0.093200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005285 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.915 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1893.
+Total: 1.821500 ms (FindLiveObjects: 0.141200 ms CreateObjectMapping: 0.040000 ms MarkObjects: 1.588900 ms  DeleteObjects: 0.050400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006149 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.037 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1896.
+Total: 3.009800 ms (FindLiveObjects: 0.150300 ms CreateObjectMapping: 0.043900 ms MarkObjects: 2.698500 ms  DeleteObjects: 0.115600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 670.673623 seconds.
+  path: Assets/New Animator Controller.controller
+  artifactKey: Guid(3b5b45263eb34b64b9adfd3232df3294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animator Controller.controller using Guid(3b5b45263eb34b64b9adfd3232df3294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88a2291568cd13bfc1f6d6432878d60') in 0.015288 seconds
+  Import took 0.024709 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005745 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1899.
+Total: 1.915600 ms (FindLiveObjects: 0.135600 ms CreateObjectMapping: 0.041400 ms MarkObjects: 1.685400 ms  DeleteObjects: 0.052400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.950748 seconds.
+  path: Assets/AnimeGirl@Salsa Dancing.fbx
+  artifactKey: Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Salsa Dancing.fbx using Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a9b5579e42b56bc83e6cd845074dc6') in 0.027913 seconds
+  Import took 0.030298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.075030 seconds.
+  path: Assets/AnimeGirl@Salsa Dancing.fbx
+  artifactKey: Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirl@Salsa Dancing.fbx using Guid(6a096d085db61c440b4a550125741263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8fad41c25ee67a144abe1945fc5c6a') in 0.009731 seconds
+  Import took 0.015192 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004840 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.057 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 1.922900 ms (FindLiveObjects: 0.136300 ms CreateObjectMapping: 0.038600 ms MarkObjects: 1.661200 ms  DeleteObjects: 0.086000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.419 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1905.
+Total: 1.936600 ms (FindLiveObjects: 0.153200 ms CreateObjectMapping: 0.056600 ms MarkObjects: 1.678000 ms  DeleteObjects: 0.047700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005344 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1908.
+Total: 1.837300 ms (FindLiveObjects: 0.172300 ms CreateObjectMapping: 0.037500 ms MarkObjects: 1.578200 ms  DeleteObjects: 0.048600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 377.768693 seconds.
+  path: Assets/New Avatar Mask.mask
+  artifactKey: Guid(12aec262ff2c14143aa1c4a6f57b09ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Avatar Mask.mask using Guid(12aec262ff2c14143aa1c4a6f57b09ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d8d1e171f28d049e106b4964ceebd7') in 0.017708 seconds
+  Import took 0.020479 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005514 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.941 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1911.
+Total: 2.111100 ms (FindLiveObjects: 0.155800 ms CreateObjectMapping: 0.038900 ms MarkObjects: 1.813800 ms  DeleteObjects: 0.101800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 269.155593 seconds.
+  path: Assets/AnimeGirls/BaseCharacter/Demo files/AC.controller
+  artifactKey: Guid(f198b02e0e99f8d458e8beaa4c101d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirls/BaseCharacter/Demo files/AC.controller using Guid(f198b02e0e99f8d458e8beaa4c101d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d7f345670e16132b99d6c02fe62741') in 0.028994 seconds
+  Import took 0.040985 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.969 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1914.
+Total: 1.955800 ms (FindLiveObjects: 0.126300 ms CreateObjectMapping: 0.045000 ms MarkObjects: 1.696400 ms  DeleteObjects: 0.087200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.665322 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(d3b853db1c90bfd41a6e2afbd83d3d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(d3b853db1c90bfd41a6e2afbd83d3d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279ff8542a404036e2650dd2f9c8ca39') in 0.012278 seconds
+  Import took 0.015984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 179.114155 seconds.
+  path: Assets/Zombie
+  artifactKey: Guid(028f537ffa91f7243b719500c4ec9584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie using Guid(028f537ffa91f7243b719500c4ec9584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b2ebc5faa865da4bc77ec81d8790d0') in 0.011810 seconds
+  Import took 0.014566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.286682 seconds.
+  path: Assets/Zombie/ScenePrefabs.unity
+  artifactKey: Guid(51c2b7bc917069942a0ac4a10bcabf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ScenePrefabs.unity using Guid(51c2b7bc917069942a0ac4a10bcabf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58edd779d5340379e55cf2887894ef29') in 0.019441 seconds
+  Import took 0.022250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.224938 seconds.
+  path: Assets/Zombie/Textures/Zombie.tga
+  artifactKey: Guid(6291fbf5d0e7c4642ad863eaf8b60622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Textures/Zombie.tga using Guid(6291fbf5d0e7c4642ad863eaf8b60622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049fdeb4f88d0f2e273f43dc4d321504') in 0.094135 seconds
+  Import took 0.098576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008183 seconds.
+  path: Assets/Zombie/Textures/Zombie.tga
+  artifactKey: Guid(6291fbf5d0e7c4642ad863eaf8b60622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Textures/Zombie.tga using Guid(6291fbf5d0e7c4642ad863eaf8b60622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049fdeb4f88d0f2e273f43dc4d321504') in 0.020811 seconds
+  Import took 0.025636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.980750 seconds.
+  path: Assets/Zombie/Textures
+  artifactKey: Guid(5ccd003863ea1cb48bb2f7bceda0a26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Textures using Guid(5ccd003863ea1cb48bb2f7bceda0a26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e50bf580b9894d2e2f9298addb45ad4') in 0.009957 seconds
+  Import took 0.013833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134614 seconds.
+  path: Assets/Zombie/Textures/Zombie_ao.png
+  artifactKey: Guid(4ef3438267568cd40b87841c3e2c22c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Textures/Zombie_ao.png using Guid(4ef3438267568cd40b87841c3e2c22c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5e953b0c14dfc5d7bcfdc738e5b752') in 0.030100 seconds
+  Import took 0.035883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Zombie/Textures/Zombie_nm.png
+  artifactKey: Guid(decb53c07686cc94b860f8e04d438d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Textures/Zombie_nm.png using Guid(decb53c07686cc94b860f8e04d438d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f60b2cb04c68f2af2aaca3b57e1539') in 0.057533 seconds
+  Import took 0.063133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Zombie/Textures/Zombie_metallic.tga
+  artifactKey: Guid(33de7c829c3a0224c8975ad93b61b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Textures/Zombie_metallic.tga using Guid(33de7c829c3a0224c8975ad93b61b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0679d659466015b8531c5f2376516a') in 0.013236 seconds
+  Import took 0.016387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Zombie/Textures/zombie_emission.tga
+  artifactKey: Guid(d681134af7b3e50479d8d90effa0e1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Textures/zombie_emission.tga using Guid(d681134af7b3e50479d8d90effa0e1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa2c5f6a76e51a9196bc67a90cf15c3') in 0.008384 seconds
+  Import took 0.010912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.756418 seconds.
+  path: Assets/Zombie/ScenePrefabsSettings.lighting
+  artifactKey: Guid(f3e1451d7bab0384e91924a058b5e3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ScenePrefabsSettings.lighting using Guid(f3e1451d7bab0384e91924a058b5e3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'b6559b51da965c30b77e5dc584ea1f18') in 0.009547 seconds
+  Import took 0.016246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005528 seconds.
+  path: Assets/Zombie/ScenePrefabsSettings.lighting
+  artifactKey: Guid(f3e1451d7bab0384e91924a058b5e3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ScenePrefabsSettings.lighting using Guid(f3e1451d7bab0384e91924a058b5e3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'b6559b51da965c30b77e5dc584ea1f18') in 0.003196 seconds
+  Import took 0.006310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.356756 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_Attack.FBX
+  artifactKey: Guid(631762b9a30b33a42836730a6b37d13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_Attack.FBX using Guid(631762b9a30b33a42836730a6b37d13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e26a0317dca4bb30186a02c1c329ac') in 0.276073 seconds
+  Import took 0.281612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_Walk1.FBX
+  artifactKey: Guid(1d31b4476a14a0246b2e0f023e8877fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_Walk1.FBX using Guid(1d31b4476a14a0246b2e0f023e8877fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a6cd1503c42d21135bba097ebee72b') in 0.167695 seconds
+  Import took 0.172563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_Walk_InPlace.FBX
+  artifactKey: Guid(165698eac7ca81041ad603fc5a3afa55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_Walk_InPlace.FBX using Guid(165698eac7ca81041ad603fc5a3afa55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d72dcf4eb36c4f9815c5b2144acda5') in 0.216032 seconds
+  Import took 0.222124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_Run.FBX
+  artifactKey: Guid(55edd2c9d257d3f4481dfd16015bf8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_Run.FBX using Guid(55edd2c9d257d3f4481dfd16015bf8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3157e0c2644bde123605ab08de8899ca') in 0.164925 seconds
+  Import took 0.169474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_Walk.FBX
+  artifactKey: Guid(59dbfb66512f63c4eb6e1e30e0603198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_Walk.FBX using Guid(59dbfb66512f63c4eb6e1e30e0603198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474d7315d69d362065d2a90c5d1a023f') in 0.152109 seconds
+  Import took 0.156679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_Idle.FBX
+  artifactKey: Guid(0d6373858f853604b960cf84b7d3dfbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_Idle.FBX using Guid(0d6373858f853604b960cf84b7d3dfbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0227ca58dfa999b49886abf48ae42b0') in 0.176793 seconds
+  Import took 0.183073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_FallingForward.FBX
+  artifactKey: Guid(d870b4f0cba458640b29cda304d40186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_FallingForward.FBX using Guid(d870b4f0cba458640b29cda304d40186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbce1b0426ac8d747af4e2cd3298e7e6') in 0.201090 seconds
+  Import took 0.206134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_Walk1_InPlace.FBX
+  artifactKey: Guid(3fa7045af54b82c47852949257d136c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_Walk1_InPlace.FBX using Guid(3fa7045af54b82c47852949257d136c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9a0badd6ef34a8885384c984ada3b1') in 0.155719 seconds
+  Import took 0.160406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_Run_InPlace.FBX
+  artifactKey: Guid(79969b20b5ba62e499ee433a4dd38701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_Run_InPlace.FBX using Guid(79969b20b5ba62e499ee433a4dd38701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65b2d56bf1db61f9ecf246a1c5eeded') in 0.168882 seconds
+  Import took 0.171685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_FallingBack.FBX
+  artifactKey: Guid(857241dcf6bb2ea45a0b3f46d78f44b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_FallingBack.FBX using Guid(857241dcf6bb2ea45a0b3f46d78f44b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1958bae01f97404bf7ed031884392fb9') in 0.042238 seconds
+  Import took 0.046985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005623 seconds.
+  path: Assets/Zombie/Animations/Zombie@Z_FallingBack.FBX
+  artifactKey: Guid(857241dcf6bb2ea45a0b3f46d78f44b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie@Z_FallingBack.FBX using Guid(857241dcf6bb2ea45a0b3f46d78f44b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1958bae01f97404bf7ed031884392fb9') in 0.037849 seconds
+  Import took 0.041523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008630 seconds.
+  path: Assets/Zombie/Animations
+  artifactKey: Guid(f3eea9b1c7ba62247acf479d69835474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations using Guid(f3eea9b1c7ba62247acf479d69835474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226dbbdee9df47482cffd96077ffafc7') in 0.007568 seconds
+  Import took 0.011758 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.293 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.0 MB.
+System memory in use after: 83.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1920.
+Total: 1.956700 ms (FindLiveObjects: 0.199300 ms CreateObjectMapping: 0.047300 ms MarkObjects: 1.662600 ms  DeleteObjects: 0.046000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.528873 seconds.
+  path: Assets/Zombie/Animations/zombie New.controller
+  artifactKey: Guid(cae736329ac1e854ca905417de0be544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/zombie New.controller using Guid(cae736329ac1e854ca905417de0be544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474a3660a524951c530481d6cf9e343f') in 0.014040 seconds
+  Import took 0.016304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.626384 seconds.
+  path: Assets/Zombie/Animations/Zombie.controller
+  artifactKey: Guid(2ef8e6599b7f9934e8ff0d64c5325a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie.controller using Guid(2ef8e6599b7f9934e8ff0d64c5325a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8599943c63882d362ef1e505936f5f96') in 0.063380 seconds
+  Import took 0.066455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.941887 seconds.
+  path: Assets/Zombie/Animations/Zombie 1.controller
+  artifactKey: Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie 1.controller using Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c6d19df1654a5e05ddb543de20e112') in 0.070900 seconds
+  Import took 0.075221 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005597 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.077 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.0 MB.
+System memory in use after: 83.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1923.
+Total: 1.974600 ms (FindLiveObjects: 0.135500 ms CreateObjectMapping: 0.039800 ms MarkObjects: 1.725100 ms  DeleteObjects: 0.073500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.542315 seconds.
+  path: Assets/Zombie/Animations/Zombie.mask
+  artifactKey: Guid(a6faaa048c8bfd442b314656ccf250e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie.mask using Guid(a6faaa048c8bfd442b314656ccf250e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f419069a7666b93a0f8a5369e25cd15e') in 0.011855 seconds
+  Import took 0.023314 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010079 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.0 MB.
+System memory in use after: 83.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1926.
+Total: 1.973600 ms (FindLiveObjects: 0.141100 ms CreateObjectMapping: 0.040800 ms MarkObjects: 1.695800 ms  DeleteObjects: 0.094800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1846.772013 seconds.
+  path: Assets/Zombie/Animations/Zombie.mask
+  artifactKey: Guid(a6faaa048c8bfd442b314656ccf250e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie.mask using Guid(a6faaa048c8bfd442b314656ccf250e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4776a413ac9660343257a130dbea785a') in 0.015093 seconds
+  Import took 0.017748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.371587 seconds.
+  path: Assets/Zombie/Animations/Zombie.mask
+  artifactKey: Guid(a6faaa048c8bfd442b314656ccf250e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie.mask using Guid(a6faaa048c8bfd442b314656ccf250e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4776a413ac9660343257a130dbea785a') in 0.002519 seconds
+  Import took 0.005442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.849969 seconds.
+  path: Assets/Zombie/Animations/Zombie 1.controller
+  artifactKey: Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie 1.controller using Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c93bf4c3fbfe3ebfdc3f3418072485') in 0.027992 seconds
+  Import took 0.034036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/Zombie/Animations/Zombie 1.controller
+  artifactKey: Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie 1.controller using Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c93bf4c3fbfe3ebfdc3f3418072485') in 0.016737 seconds
+  Import took 0.021361 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.909 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.0 MB.
+System memory in use after: 83.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1929.
+Total: 1.971100 ms (FindLiveObjects: 0.143400 ms CreateObjectMapping: 0.041700 ms MarkObjects: 1.741600 ms  DeleteObjects: 0.043700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 370.292601 seconds.
+  path: Assets/Zombie/Animations/Zombie 1.controller
+  artifactKey: Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Animations/Zombie 1.controller using Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a1b44290c36559e7d37d12199991ea') in 0.044955 seconds
+  Import took 0.050279 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005073 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.033 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.0 MB.
+System memory in use after: 83.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1932.
+Total: 2.171900 ms (FindLiveObjects: 0.248300 ms CreateObjectMapping: 0.078000 ms MarkObjects: 1.783700 ms  DeleteObjects: 0.060700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4046.925770 seconds.
+  path: Assets/Zombie Animation Controller.controller
+  artifactKey: Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie Animation Controller.controller using Guid(dde2a5f8127a12541864f1568109f42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea71223b73c3b9af03debcf8da530de1') in 0.163978 seconds
+  Import took 0.220283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 790.710374 seconds.
+  path: Assets/Zombie/Materials
+  artifactKey: Guid(8788e5bbc8e9a6343979255ce0979a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials using Guid(8788e5bbc8e9a6343979255ce0979a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1c4b9013e8b951a7f25d49f238c1d24') in 0.018365 seconds
+  Import took 0.022058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2676.818999 seconds.
+  path: Assets/Zombie.mask
+  artifactKey: Guid(a6faaa048c8bfd442b314656ccf250e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie.mask using Guid(a6faaa048c8bfd442b314656ccf250e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527185cf98b56a714ca3101adeb62b52') in 0.027422 seconds
+  Import took 0.035110 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.264897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.062 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1524 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2065.
+Total: 2.838000 ms (FindLiveObjects: 0.195300 ms CreateObjectMapping: 0.047000 ms MarkObjects: 1.703400 ms  DeleteObjects: 0.891500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005428 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.098 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1524 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2068.
+Total: 1.927800 ms (FindLiveObjects: 0.144700 ms CreateObjectMapping: 0.048100 ms MarkObjects: 1.566600 ms  DeleteObjects: 0.167600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011553 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.123 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1524 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2071.
+Total: 2.607100 ms (FindLiveObjects: 0.254200 ms CreateObjectMapping: 0.057500 ms MarkObjects: 2.064000 ms  DeleteObjects: 0.229700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008831 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.104 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.7 MB.
+System memory in use after: 83.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2071.
+Total: 2.116300 ms (FindLiveObjects: 0.190100 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.829400 ms  DeleteObjects: 0.050600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
